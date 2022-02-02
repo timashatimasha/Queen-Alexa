@@ -32,11 +32,8 @@ WhatsApp Bot
 
 ## `SCAN QR`
 
-[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+[`Click Here`](https://replit.com/@timashatimasha/Queen-Alexa-QR-Code-1#index.js)
 
-## `CHANGE SESSION`
-
-[`Click Here`](https://github.com/timashatimasha/Queen-Alexa/blob/main/session.json#L1)
 
 ## `SETTING`
 
